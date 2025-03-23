@@ -13,3 +13,7 @@ Purchasing System: Integrated payment gateway for seamless transactions between 
 
 Rating and Reviews: Users can rate and review code listings to ensure quality and trustworthiness.​
 
+## Demo 
+Username : user@example.com
+Password : 1111111a
+
